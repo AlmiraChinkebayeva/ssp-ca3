@@ -1,0 +1,34 @@
+body {
+    padding: 50px;
+    font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+  }
+  
+  a {
+    color: #00B7FF;
+  }
+  
+  .form{
+    display:flex;
+    flex-direction: column;
+    background-color: #e8e8e8;
+    box-shadow: 1px 1px 5px #bfbfbf;
+    padding: 20px 10px;
+  }
+  .form input{
+    height:25px;
+    margin: 5px;
+  }
+  .form-btn{
+    height: 40px;font-size: 15px;background-color: #4d4d4d;color: #fff;border: 0px;
+  }
+  
+  .form-conn{
+    width:45%;
+  }
+  
+  button{
+    padding: 4px 8px;
+    margin:5px;
+  
+  }
+  
